@@ -1,7 +1,7 @@
 === MO Cache ===
 Contributors: m4i
-Tags: cache, caching, performance, benchmark, i18n, internationalization, l10n, localization, language, languages, translation, translate
-Requires at least: 3.2.0
+Tags: cache, caching, performance, benchmark, benchmarking, i18n, internationalization, l10n, localization, language, languages, translation, translate
+Requires at least: 3.2
 Tested up to: 3.3
 Stable tag: 1.1
 
@@ -15,6 +15,8 @@ This plugin is necessary to be used [persistent caching plugin](http://codex.wor
 
 For localized WordPress, which was newly installed, the loading time of translation files accounts for 70% of the entire processing time.
 You can make this process 3 times faster by just installing this plugin.
+
+[Description in Japanese （日本語での紹介記事）](http://m4i.hatenablog.com/entry/2011/12/10/000407)
 
 = Features =
 
