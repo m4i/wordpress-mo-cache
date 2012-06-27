@@ -7,8 +7,8 @@
 Plugin Name: MO Cache
 Plugin URI: http://wordpress.org/extend/plugins/mo-cache/
 Description: Improving the site performance by caching translation files using the WordPress standard cache mechanism.
-Author: Masaki Ishihara
-Version: 1.2
+Author: Masaki Takeuchi
+Version: 2.0
 Author URI: https://github.com/m4i/wordpress-mo-cache
 License: MIT
 */

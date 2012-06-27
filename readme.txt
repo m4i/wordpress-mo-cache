@@ -2,8 +2,8 @@
 Contributors: m4i
 Tags: cache, caching, performance, benchmark, benchmarking, i18n, internationalization, l10n, localization, language, languages, translation, translate
 Requires at least: 3.2
-Tested up to: 3.3
-Stable tag: 1.2
+Tested up to: 3.4
+Stable tag: 2.0
 
 Improving the site performance by caching translation files using the WordPress standard cache mechanism.
 
@@ -59,6 +59,9 @@ It depends on the persistent caching plugin.
 
 
 == Changelog ==
+
+= 2.0 =
+* Support WordPress 3.4
 
 = 1.2 =
 * No change in the code
